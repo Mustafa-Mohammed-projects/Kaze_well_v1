@@ -17,6 +17,7 @@ import androidx.compose.ui.graphics.Path
 import androidx.compose.ui.graphics.StrokeCap
 import androidx.compose.ui.graphics.StrokeJoin
 import androidx.compose.ui.graphics.drawscope.Stroke
+import androidx.compose.ui.unit.dp
 
 /** The big status shield: glowing teal with a check when protected, red with a cross when off. */
 @Composable
