@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">kaze_well</string>
+
+    <string name="status_on">Protected</string>
+    <string name="status_off">Firewall is off</string>
+    <string name="sub_on">%1$d apps blocked · %2$d allowed</string>
+    <string name="sub_off">Turn it on to cut internet access for every app you have not allowed</string>
+    <string name="btn_on">Turn on firewall</string>
+    <string name="btn_off">Turn off firewall</string>
+
+    <string name="stat_blocked">Blocked</string>
+    <string name="stat_allowed">Allowed</string>
+    <string name="stat_packets">Dropped packets</string>
+
+    <string name="auto_start">Start on boot</string>
+    <string name="auto_start_desc">Re-enable the firewall automatically after a restart</string>
+
+    <string name="tip">Only the apps you switch on can reach the internet while the firewall is running. Newly installed apps are blocked automatically.</string>
+    <string name="tip_system">Blocking system apps such as Google Play services can break notifications and updates.</string>
+    <string name="vpn_note">kaze_well uses Android\'s local VPN slot to filter traffic. Nothing leaves your device.</string>
+
+    <string name="search_hint">Search apps</string>
+    <string name="filter_all">All</string>
+    <string name="filter_user">User apps</string>
+    <string name="filter_system">System</string>
+    <string name="filter_allowed">Allowed</string>
+    <string name="filter_blocked">Blocked</string>
+    <string name="allow_shown">Allow shown</string>
+    <string name="block_shown">Block shown</string>
+
+    <string name="internet_allowed">Internet allowed</string>
+    <string name="internet_blocked">Internet blocked</string>
+    <string name="system_badge">System</string>
+    <string name="loading">Loading apps…</string>
+    <string name="empty_title">No apps found</string>
+    <string name="empty_body">Try a different search or filter.</string>
+</resources>

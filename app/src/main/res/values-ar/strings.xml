@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">kaze_well</string>
+
+    <string name="status_on">محمي</string>
+    <string name="status_off">الجدار الناري متوقف</string>
+    <string name="sub_on">%1$d تطبيق محجوب · %2$d مسموح</string>
+    <string name="sub_off">شغّله لقطع الإنترنت عن كل تطبيق لم تسمح له</string>
+    <string name="btn_on">تشغيل الجدار الناري</string>
+    <string name="btn_off">إيقاف الجدار الناري</string>
+
+    <string name="stat_blocked">محجوب</string>
+    <string name="stat_allowed">مسموح</string>
+    <string name="stat_packets">حزم محجوبة</string>
+
+    <string name="auto_start">التشغيل عند الإقلاع</string>
+    <string name="auto_start_desc">إعادة تفعيل الجدار تلقائياً بعد إعادة تشغيل الجهاز</string>
+
+    <string name="tip">التطبيقات التي تفعّلها فقط يمكنها الوصول للإنترنت أثناء عمل الجدار. التطبيقات الجديدة تُحجب تلقائياً.</string>
+    <string name="tip_system">حجب تطبيقات النظام مثل خدمات Google Play قد يعطّل الإشعارات والتحديثات.</string>
+    <string name="vpn_note">يستخدم kaze_well خانة VPN المحلية في أندرويد لتصفية الاتصال. لا تغادر أي بيانات جهازك.</string>
+
+    <string name="search_hint">ابحث عن تطبيق</string>
+    <string name="filter_all">الكل</string>
+    <string name="filter_user">تطبيقاتي</string>
+    <string name="filter_system">النظام</string>
+    <string name="filter_allowed">المسموح</string>
+    <string name="filter_blocked">المحجوب</string>
+    <string name="allow_shown">السماح للظاهر</string>
+    <string name="block_shown">حجب الظاهر</string>
+
+    <string name="internet_allowed">الإنترنت مسموح</string>
+    <string name="internet_blocked">الإنترنت محجوب</string>
+    <string name="system_badge">نظام</string>
+    <string name="loading">جارٍ تحميل التطبيقات…</string>
+    <string name="empty_title">لا توجد تطبيقات</string>
+    <string name="empty_body">جرّب بحثاً أو فلتراً مختلفاً.</string>
+</resources>
